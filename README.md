@@ -20,7 +20,7 @@ Masseau Gilbert ODCSE Year 2
 <tr>
 <td> UP (Disney Animation) </td>
 <td> The real adventure of life is the relationship we have with other people, and it's so easy to lose sight of the things we have and the people that are around us until they are gone. </td>
-<td> <img src="Up.gif" alt="MOE Logo" width="400" height="200"> </td>
+<td> <img src="UP.gif" alt="MOE Logo" width="400" height="200"> </td>
 </tr>
 
 <tr>
